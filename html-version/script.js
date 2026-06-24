@@ -3,7 +3,7 @@
   'use strict';
 
   /* ── Language state ──────────────────────────────────────── */
-  let lang = 'en';
+  let lang = 'hi';
 
   const content = {
     /* NAVBAR */
